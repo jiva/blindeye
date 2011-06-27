@@ -1,4 +1,5 @@
 blindeye.py
 fast blind MySQLi using bit shifts (exactly 8 requests per char instead of 127 per char)
+see http://h.ackack.net/faster-blind-mysql-injection-using-bit-shifting.html for the original idea
 by jiva
 
